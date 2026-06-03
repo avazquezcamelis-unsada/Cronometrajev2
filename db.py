@@ -4,9 +4,9 @@ CARRERA_ID = 1
 
 def get_conexion():
     return mysql.connector.connect(
-        host     = "localhost",
-        port     = 3306,
-        database = "atletismo",
+        host     = "acela.proxy.rlwy.net",
+        port     = 43667,
+        database = "railway",
         user     = "root",
-        password = "391313178546"
+        password = "DFahCFOyOBUGJNvegeGsOvjNaZgYvBAP"
     )
