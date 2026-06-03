@@ -1,0 +1,12 @@
+- Python 3.13+
+- Librerias:
+  pip install customtkinter flask requests
+
+PASOS
+
+1) Ejecutar servidor.py
+
+2) Ejecutar interfaz.py
+
+3) Para ver la tabla web:
+http://127.0.0.1:5000
